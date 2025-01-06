@@ -57,3 +57,7 @@ In this project, we use Elastic Net regression to forecast the amount of home lo
 3. اجرای دفترچه یادداشت Jupyter برای کاوش در مدل.
 
 ---
+
+
+### 📧 ارتباط با من | Contact
+برای هرگونه سوال یا پیشنهاد، می‌توانید از طریق ایمیل با من تماس بگیرید: masudpythongit@gmail.com
